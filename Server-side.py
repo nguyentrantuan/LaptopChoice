@@ -26,8 +26,8 @@ class DecimalEncoder(json.JSONEncoder):
                 return int(o)
         return super(DecimalEncoder, self).default(o)
 
-ACCESS_KEY='AKIAJS6EV7XP44PHDEZA'
-SECRET_KEY='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'
+ACCESS_KEY='xxx'
+SECRET_KEY='xxx'
 
 TABLE_NAME = "Bestbuy"
 REGION = "us-east-1"
