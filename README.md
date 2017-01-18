@@ -15,6 +15,6 @@ This reposition contains python and php script running on an EC2 instance. The i
 
 ###Enviroments and technologies
 - Android studio (Android front end)
-- PHP, MySQL,
+- PHP, MySQL
 - Sypder 3.0 on Anacoda (Python)
 - EC2, DynamoDB
