@@ -18,3 +18,5 @@ This reposition contains python and php script running on an EC2 instance. The i
 - PHP, MySQL
 - Sypder 3.0 on Anacoda (Python)
 - EC2, DynamoDB
+
+Mindmap: https://app.mindmup.com/map/_free/e4e0f420dc2411e6bdae49d573dbebce
