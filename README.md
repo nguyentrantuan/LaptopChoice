@@ -1,6 +1,6 @@
 # Shop Around - Pick the best laptop within your budget!
 
-Android (4.1 or higher) dowload here: https://drive.google.com/file/d/0B4Qpy_c-QbUwbWFHb0NGSmZtRW8/view?usp=sharing. Sorry, no iOS yet!
+Android (4.1 or higher) dowload here: https://drive.google.com/open?id=0B4Qpy_c-QbUwbThNUUtOU3NDWUk. Sorry, no iOS yet!
 
 ###How the app was built?
 On server side, I establish an Amazon EC2 instance to run a daily script to get all available laptops on Best Buy, then store the general information on a NoSQL DynamoDB, also an Amazon database service. 
